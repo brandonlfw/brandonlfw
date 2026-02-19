@@ -5,8 +5,8 @@ I am a Systems Design Engineering student at the **University of Waterloo** seek
 I like building things that are **actually useful** — data pipelines, web tools, hardware systems, and whatever's in between.
 
 ## Internship Experience
-- 🛒 **Loblaw Companies Limited (F2025)** — Built a Flask + Jinja2 web dashboard to track **$1.5B+** in real-time inventory across **2.5k stores** across Canada
-- 💡 **Lumotive (W2025)** — Automated LiDAR test pipelines using Python and built a Tableau dashboard monitoring real-world performance of **3 sensors** over **1000+ hours**
+- 🛒 **[Loblaw Companies Limited (F2025)](https://loblawdigital.co/)** — Built a Flask + Jinja2 web dashboard to track **$1.5B+** in real-time inventory across **2.5k stores** across Canada
+- 💡 **[Lumotive (W2025)](https://lumotive.com/)** — Automated LiDAR test pipelines using Python and built a Tableau dashboard monitoring real-world performance of **3 sensors** over **1000+ hours**
 
 ## Projects
 - 📊 **[RBC Statement Analyzer](https://github.com/brandonlfw/financial-analyst)** — Classifies **446k+ vendors** against the Canadian ODBus database to break down personal spending by category using Pandas & Matplotlib
@@ -19,6 +19,7 @@ I like building things that are **actually useful** — data pipelines, web tool
 
 **Dev Tools/Technologies**: Git, Docker, Jupyter Notebook, VS Code, Oracle, Teradata, PostgreSQL, MySQL, Tableau
 
-## Let's Connect
-📫 b96wu@uwaterloo.ca
-[LinkedIn](https://linkedin.com/in/brandonlfw)
+## Let's Connect!
+📫 **Email**: b96wu@uwaterloo.ca
+
+Or find me on [LinkedIn](https://linkedin.com/in/brandonlfw)!
