@@ -1,8 +1,8 @@
 # Hey, I'm Brandon👋
 
-Systems Design Engineering student at the **University of Waterloo** seeking a **Summer 2026 co-op/internship**.
+I am a Systems Design Engineering student at the **University of Waterloo** seeking a **Summer 2026 co-op/internship**.
 
-I like building things that are actually useful — data pipelines, web tools, hardware systems, and whatever's in between.
+I like building things that are **actually useful** — data pipelines, web tools, hardware systems, and whatever's in between.
 
 ## Internship Experience
 - 🛒 **Loblaw Companies Limited (F2025)** — Built a Flask + Jinja2 web dashboard to track **$1.5B+** in real-time inventory across **2.5k stores** across Canada
@@ -14,8 +14,11 @@ I like building things that are actually useful — data pipelines, web tools, h
 
 ## Tech Stack
 **Languages**: Python, SQL, C++, JavaScript, HTML/CSS, PHP
+
 **Libraries/Frameworks**: React.js, Jinja2, Flask, Pandas, Matplotlib, Numpy
+
 **Dev Tools/Technologies**: Git, Docker, Jupyter Notebook, VS Code, Oracle, Teradata, PostgreSQL, MySQL, Tableau
 
 ## Let's Connect
-📫 b96wu@uwaterloo.ca · [LinkedIn](https://linkedin.com/in/brandonlfw)
+📫 b96wu@uwaterloo.ca
+[LinkedIn](https://linkedin.com/in/brandonlfw)
